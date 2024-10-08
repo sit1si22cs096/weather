@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
    - Get your API key.
    - Open the `lib/constants.dart` file (or wherever you define API constants) and replace `YOUR_API_KEY` with your actual OpenWeatherMap API key:
      ```dart
-     String apiKey = 'YOUR_API_KEY';
+     const String apiKey = 'YOUR_API_KEY';
      ```
 
 4. **Run the app:**
