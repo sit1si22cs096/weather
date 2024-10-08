@@ -3,6 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:weatherapp/additionalinfoitem.dart';
+import 'package:weatherapp/constrants.dart';
 import 'package:weatherapp/iconAsPerWeather.dart';
 import 'package:weatherapp/weather_main_card.dart';
 import 'package:weatherapp/weatherforcastitem.dart';
@@ -18,7 +19,7 @@ class _WeatherAppHomeState extends State<WeatherAppHome> {
   TextEditingController textEditingController = TextEditingController();
   String cityName = "Nepal";
   Future<Map<String, dynamic>> getWeatherInfo(String country) async {
-    String apikey = "<Enter Your API Key HERE";
+    String apikey = apiKey;
     final url =
         "https://api.openweathermap.org/data/2.5/forecast?q=$country&units=metric&APPID=$apikey";
     try {
