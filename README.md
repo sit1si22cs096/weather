@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/santoshvandari/WeatherAppAPK.git
-    cd weatherapp
+    cd WeatherAppApk
     ```
 
 2. **Install dependencies:**
@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
    - Get your API key.
    - Open the `lib/constants.dart` file (or wherever you define API constants) and replace `YOUR_API_KEY` with your actual OpenWeatherMap API key:
      ```dart
-     const String apiKey = 'YOUR_API_KEY';
+     String apiKey = 'YOUR_API_KEY';
      ```
 
 4. **Run the app:**
@@ -56,8 +56,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or support, please reach out at:
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@santoshvandari](https://github.com/santoshvandari)
 
 ---
 
