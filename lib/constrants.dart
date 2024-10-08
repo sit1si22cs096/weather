@@ -1,1 +1,1 @@
-String apiKey = "<Enter Your API KEY HERE>";
+const apiKey = "<Enter Your API KEY HERE>";
