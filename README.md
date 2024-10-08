@@ -10,7 +10,7 @@
 - **User-friendly Interface**: A sleek and easy-to-navigate design.
 
 ## Screenshots
-![WeatherApp Screenshot](screenshot.png)
+![WeatherApp Screenshot](img.png)
 
 ## Tech Stack
 - **Framework**: [Flutter](https://flutter.dev/) - for creating cross-platform mobile apps.

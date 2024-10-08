@@ -2,11 +2,11 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:weatherapp/additionalinfoitem.dart';
+import 'package:weatherapp/additional_info_item.dart';
 import 'package:weatherapp/constrants.dart';
-import 'package:weatherapp/iconAsPerWeather.dart';
+import 'package:weatherapp/icon_as_per_weather.dart';
 import 'package:weatherapp/weather_main_card.dart';
-import 'package:weatherapp/weatherforcastitem.dart';
+import 'package:weatherapp/weather_forcast_item.dart';
 
 class WeatherAppHome extends StatefulWidget {
   const WeatherAppHome({super.key});
