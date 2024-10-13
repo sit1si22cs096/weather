@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 
 ## Installation
 To install the app on your Android device:
-1. Download the latest APK from the [Releases](https://github.com/yourusername/weatherapp/releases) section.
+1. Download the latest APK from the [Releases](https://github.com/santoshvandari/weatherapp/releases) section.
 2. Transfer the APK to your phone and install it.
 
 ## Contributing
