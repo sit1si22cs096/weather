@@ -1,0 +1,16 @@
+name: weatherpro_flutter
+description: A beautiful weather app built using Flutter.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+
+flutter:
+  assets:
+    - assets/
